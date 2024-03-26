@@ -1,0 +1,26 @@
+.Interest {
+    border-radius: 3px;
+    margin-left: 20px;
+    margin-top: 45px;
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.expertiseBox {
+    flex: 1;
+    margin-right: 20px; /* Add margin between the boxes */
+    border: 1px solid black; /* Add border for the box */
+    padding: 20px; /* Add padding inside the box */
+}
+
+.expertiseBox:last-child {
+    margin-right: 0; /* Remove margin for the last box to prevent extra space */
+}
+
+@media (max-width: 769px) {
+    .expertiseBox {
+        flex-basis: 100%; /* Set full width on smaller screens */
+        margin-right: 0; /* Remove margin for smaller screens */
+    }
+}

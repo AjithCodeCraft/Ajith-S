@@ -1,0 +1,80 @@
+/* contact.module.css */
+
+.contactContainer {
+    display: flex;
+  }
+  
+  .contactDetails {
+    width: 30%;
+    padding: 20px;
+  }
+  
+  .contactInfo {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .contactItem {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .contactItem p {
+    margin-left: 10px;
+  }
+  
+  .contactForm {
+    width: 70%;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .contactForm h2 {
+    margin-bottom: 20px;
+  }
+  
+  .contactForm label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .contactForm input[type='text'],
+  .contactForm input[type='email'],
+  .contactForm textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    resize: none;
+  }
+  
+  .contactForm textarea {
+    height: 100px;
+  }
+  
+  .contactForm input[type='submit'] {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #4caf50;
+    color: #fff;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .contactForm input[type='submit']:hover {
+    background-color: #000000;
+  }
+  
+  /* Icon styles */
+  .icon {
+    font-size: 20px;
+    color: #333;
+  }
+  
