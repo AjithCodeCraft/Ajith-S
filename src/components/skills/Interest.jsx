@@ -14,7 +14,7 @@ class Interest extends Component {
             <ul>
               <li><strong>Programming Languages:</strong> Python</li>
               <li><strong>Frontend Technologies:</strong> HTML/CSS, JavaScript</li>
-              <li><strong>Frontend Frameworks:</strong> Angular 10</li>
+              <li><strong>Frontend Frameworks:</strong> Angular 10,ReactJS</li>
               <li><strong>CSS Frameworks:</strong> Bootstrap</li>
               <li><strong>Web Frameworks:</strong> Django, DjangoRESTFramework, FastAPI</li>
               <li><strong>Database:</strong> Oracle, MySQL</li>

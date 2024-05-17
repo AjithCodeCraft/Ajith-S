@@ -31,7 +31,7 @@ class Projects extends Component {
                       <pre><strong>Front End:</strong> Angular using HTML, CSS and Bootstrap.<br/>
                       <strong>Back End:</strong> Http Get and Post API using Django REST Framework.<br/>
                       <strong>Database:</strong> MySQL with Joins, CRUD operations, Normalization.<br/>
-                      <strong>Role:</strong> As the receptionist for the clinical management system project, I played a pivotal role in ensuring efficient administrative operations. My responsibilities included managing patient inquiries, scheduling appointments, and maintaining accurate records. By promptly addressing patient needs and coordinating with staff members, I facilitated seamless communication and workflow within the healthcare facility.</pre>
+                     </pre>
                     </div>
                   </article>
                   <article className={classes.timeline_entry}>
@@ -42,7 +42,7 @@ class Projects extends Component {
                       <pre style={{ fontFamily: 'bold' }}><strong>Front End:</strong> HTML, CSS, Bootstrap with Django Templates<br/>
                       <strong>Back End:</strong> Django MVT backend with Django ORM.<br/>
                       <strong>Database:</strong> MySQL with Django ORM.<br/>
-                      <strong>Role:</strong> In my involvement with the development of a Full Stack Application-OTT Platform, my primary emphasis was on managing content. I assumed a pivotal role in the incorporation of content creators, overseeing the platform's content, and upholding its overall quality standards.</pre>
+                    </pre>
                     </div>
                   </article>
                   <article className={classes.timeline_entry}>

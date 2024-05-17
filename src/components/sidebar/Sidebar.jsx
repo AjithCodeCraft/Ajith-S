@@ -24,12 +24,16 @@ export default function Sidebar() {
   };
   const iconList = [
     {
+      component: gmail,
+      href: 'ajithsa909@gmail.com'
+    },
+    {
       component: linkedin,
       href: 'https://www.linkedin.com/in/ajithsa007'
     },
     {
       component: github,
-      href: 'https://github.com/ajith'
+      href: 'https://github.com/AjithCodeCraft'
     }
     
   ];
